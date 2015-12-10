@@ -2,7 +2,6 @@
   "name": "bootstrap-multimodal",
   "version": "1.0.0",
   "description": "A Bootstrap plugin that adds support for multiple open modals.",
-  "main": "./js/npm",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
