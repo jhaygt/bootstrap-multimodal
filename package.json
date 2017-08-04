@@ -1,0 +1,31 @@
+{
+  "name": "bootstrap-multimodal",
+  "version": "2.0.0",
+  "description": "A Bootstrap plugin that supports stacking of modals.",
+  "author": "Alexander Hofbauer",
+  "license": "MIT",
+  "homepage": "https://github.com/aleho/bootstrap-multimodal.git",
+  "keywords": [
+    "Bootstrap",
+    "multiple",
+    "modal"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aleho/bootstrap-multimodal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aleho/bootstrap-multimodal/issues"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-concat": "2.6.1",
+    "gulp-rename": "1.2.2",
+    "gulp-sourcemaps": "2.6.0",
+    "gulp-uglify": "3.0.0",
+    "uglify-save-license": "0.4.1"
+  },
+  "scripts": {
+    "prepublish": "./bin/gulp"
+  }
+}

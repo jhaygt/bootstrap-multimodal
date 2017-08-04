@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-multimodal",
+  "version": "1.0.6",
+  "homepage": "https://github.com/jhaygt/bootstrap-multimodal",
+  "authors": [
+    "jhaygt <johnd.hay@gmail.com>"
+  ],
+  "description": "A Bootstrap plugin that adds support for multiple open modals.",
+  "keywords": [
+    "Bootstrap",
+    "multiple",
+    "modal"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
